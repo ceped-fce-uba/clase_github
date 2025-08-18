@@ -1,2 +1,3 @@
 asdasddasdasd
 Agrego un comentario al archivo que subió Lucas
+Mientras estoy en la rama "desarrollo", voy modificando en paralelo todo codigo que no quiero afecte a la rama principal
