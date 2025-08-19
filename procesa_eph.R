@@ -7,3 +7,6 @@ asalariados_totales <- eph_3t2022  %>%  # EPH
   filter(ESTADO == 1, CAT_OCUP == 3) %>% 
   summarise(asalariados = sum(PONDERA),
             asalariados_muestrales = n())
+
+
+cantidad_filas <- nrow(eph_3t2022)
