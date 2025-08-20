@@ -15,3 +15,6 @@ asalariados_totales <- eph_3t2022  %>%  # EPH
 
 
 cantidad_filas <- nrow(eph_3t2022)
+
+# NO SE QUE CARAJO AGREGAR
+
